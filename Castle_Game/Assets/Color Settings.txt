@@ -1,0 +1,2 @@
+Ambient Color: A37070;
+Sun Color: FFF4D6FF;
